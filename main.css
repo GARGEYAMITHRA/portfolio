@@ -1,4 +1,4 @@
-/* General Styling */
+
 * {
     margin: 0;
     padding: 0;
@@ -41,7 +41,6 @@ nav .logo h2 {
     color: #ff6347;
 }
 
-/* Introduction Section */
 #intro {
     padding: 50px;
     background-color: #2b2b2b;
@@ -58,7 +57,7 @@ nav .logo h2 {
     font-size: 1.5rem;
 }
 
-/* Skills Section */
+
 #skills {
     padding: 50px;
     background-color: #f4f4f4;
@@ -108,8 +107,16 @@ nav .logo h2 {
 #skill5 {
     animation-delay: 1.5s;
 }
+#skill6 {
+    animation-delay: 1.8s;
+}
+#skill7 {
+    animation-delay: 2.1s;
+}
+#skill8 {
+    animation-delay: 2.4s;
+}
 
-/* Sliding animation */
 @keyframes slideIn {
     to {
         opacity: 1;
